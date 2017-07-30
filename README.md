@@ -1,4 +1,4 @@
-# go-hystrix-circuitebreaker example
+# go-jwthandler-validation example
 
 This is an example to demonstrate go-jwthandler configuration for third party API calls. As mentioned, I use go-jwthandler(github.com/dgrijalva/jwt-go).
 
